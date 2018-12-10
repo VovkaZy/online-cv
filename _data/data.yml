@@ -7,41 +7,44 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Volodymyr Zubariev
+    tagline: Ruby, Ruby on Rails Dev.
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: v.n.zubarev@gmail.com
+    phone: +380 97 1717 804
+    website:  #do not add http://
+    linkedin: vovkaz
+    github: VovkaZy
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: vovkaz
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Upper-intermediate
+
+      - idiom: Ukrainian
+        level: Native
+        
+      - idiom: Russian
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: IT, Mob-T, hi-tech,Web,
+        link:
+ 
+      - item: Travel, Hiking, Snowboarding
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Programming, Brainstorm, Education
         link:
 
 career-profile:
@@ -56,9 +59,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Expert degree in computer engineering and computer science.
+      university: Sevastopol National Technical University, Ukraine
+      time: 2006 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -178,23 +181,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
+    
       - name: HTML5 & CSS
-        level: 95%
-
+        level: 65%
+        
+      - name: PostgreSQL, SQLite, MySql / MariaDB
+        level: 40%
+        
       - name: Ruby on Rails
-        level: 85%
+        level: 35%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: RSpec, Cucumber
+        level: 25%
+        
+      - name: Javascript & jQuery
+        level: 15%
+
+      - name: OWASP ZAP, WPScan, Metasploit, Sqlmap
+        level: 15%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
